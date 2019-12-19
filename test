@@ -18,6 +18,7 @@
             token : '5ef06eca4ec143176024ac13c864136c',
             config: {
                 locale : 'es',
+                entrypoint: {idCountry: 'AR' }
             }
         };
         var syncWidget = new SyncWidget(widgetSettings);
